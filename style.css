@@ -95,12 +95,12 @@ body{
 .icons{
     margin: 0 -5%;
     
-    width: 340px;
+    width: 370px;
     
 }
 .shadow{
     margin-left: auto;
-    margin-right: 100px;
+    margin-right: 115px;
     border-radius: 50%;
     width: 250px;
     height: 250px;
@@ -129,8 +129,9 @@ body{
     opacity: 1;
 }
 .kuku{
-    color: black;
-    font-size:x-large;
+    color: white;
+    
+    
 
 }
 
